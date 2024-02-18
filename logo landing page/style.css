@@ -1,0 +1,15 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(221, 233, 49);
+    font-size: 16px;
+    color: white;
+}
+
+nav {
+    font-size: 5em;
+}
+
+img {
+    transform: all 1s;
+}
