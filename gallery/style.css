@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    font-size: 2em;
+    font-family: "lucida Console", "courier new", monospace;
+    background-color: peachpuff
+}
+
+img {
+   
+    width: 750px;
+}
