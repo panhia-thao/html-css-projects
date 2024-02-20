@@ -1,0 +1,13 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(106, 211, 224);
+    font-size: 16px;
+    scroll-behavior: ;
+}
+
+h1 {
+    font: italic bold 5em Georgia, serif;
+    text-align: center;
+    color: whitesmoke;
+}
